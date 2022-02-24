@@ -1,7 +1,8 @@
 body{
     font-size: 18px;
     font-family: 'Noto Serif', serif;
-    background-color: #FAA319
+    background-color: #FAA319;
+    line-height: 27px;
 }
 
 .title{
@@ -31,7 +32,7 @@ body{
 }
 
 .audiobook{
-    background-color: rgb(70, 88, 253);
+    background-color: rgb(91, 107, 255);
     color: white;
     text-decoration: none;
     padding: 5px;
