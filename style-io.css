@@ -29,3 +29,10 @@ body{
     padding: 3px;
     border-radius: 10%;
 }
+
+.audiobook{
+    background-color: rgb(70, 88, 253);
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
