@@ -1,0 +1,23 @@
+body{
+    font-size: 18px;
+    font-family: 'Noto Serif', serif;
+    background-color: #FAA319
+}
+
+.title{
+    color: ;
+}
+
+.myphoto{
+    border-radius: 20%;
+        
+}
+
+.buttom{
+    background-color: rgba(247, 36, 36, 0.37);
+    color: black;
+    text-decoration: none;
+    line-height: 55px;
+    padding: 7px;
+    border-radius: 80%;
+}
