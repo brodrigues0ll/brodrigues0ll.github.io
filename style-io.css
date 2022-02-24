@@ -21,3 +21,11 @@ body{
     padding: 7px;
     border-radius: 80%;
 }
+
+.buttom-trybe{
+    background-color: rgb(90, 182, 128);
+    color: white;
+    text-decoration: none;
+    padding: 3px;
+    border-radius: 10%;
+}
