@@ -7,6 +7,7 @@ body{
     margin-top: 5%;
     background-image:url("https://img.freepik.com/fotos-gratis/fundo-de-pintura-grunge_1409-1337.jpg?t=st=1645758701~exp=1645759301~hmac=58bf2c7e334439d6885e0bd4c247ca49ae92b72efb83626473dc8071aec71519&w=826");
     text-shadow: 0px 0px 3pc rgba(92, 172, 0, 0.932);
+    text-align: center;
 }
 
 .title{
