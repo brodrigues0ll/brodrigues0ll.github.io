@@ -52,3 +52,11 @@ body{
     border-radius: 45%;
     box-shadow: 5px 5px 5px black;
 }
+
+.textos{
+    width: 400px;
+    margin-left: 20%;
+    overflow-y: auto;
+    overflow-x: hidden;
+
+}
