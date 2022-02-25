@@ -5,7 +5,7 @@ body{
     line-height: 27px;
     margin: 10%;
     background-image:url("https://img.freepik.com/fotos-gratis/fundo-de-pintura-grunge_1409-1337.jpg?t=st=1645758701~exp=1645759301~hmac=58bf2c7e334439d6885e0bd4c247ca49ae92b72efb83626473dc8071aec71519&w=826");
-    text-shadow: 1px 0.2px 0.5pc rgb(248, 248, 248);
+    text-shadow: 0px 0px 3pc rgba(92, 172, 0, 0.932);
 }
 
 .title{
@@ -14,7 +14,7 @@ body{
 
 .myphoto{
     border-radius: 20%;
-    box-shadow: 0px 5px 1pc yellow;
+    box-shadow: 0px 0px 3pc rgb(77, 181, 250);
         
 }
 
@@ -40,5 +40,4 @@ body{
 
 .space-contat{
     margin: 2px;
-    box-shadow: ;
 }
