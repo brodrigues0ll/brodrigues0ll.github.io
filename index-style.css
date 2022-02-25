@@ -1,62 +1,34 @@
-body{
-    font-size: 18px;
-    font-family: 'Noto Serif', serif;
-    /* background-color: #faa111; */
-    line-height: 27px;
-    margin-top: 5%;
-    background-image:url("https://img.freepik.com/fotos-gratis/fundo-de-pintura-grunge_1409-1337.jpg?t=st=1645758701~exp=1645759301~hmac=58bf2c7e334439d6885e0bd4c247ca49ae92b72efb83626473dc8071aec71519&w=826");
-    text-shadow: 0px 0px 3pc rgba(92, 172, 0, 0.932);
+* {
+    margin: 0;
+    padding: 0;
     text-align: center;
 }
 
-.title{
-    line-height: 1;
+body{
+    background-image: url("imagens/Kristal-subtle-glass-white-background-pattern-patternpictures-0220.png");
+    color: rgb(6, 6, 6);
+    text-shadow: 1px 2px 7px rgb(193, 217, 235);
 }
 
-.myphoto{
-    border-radius: 20%;
-    box-shadow: 0px 0px 3pc rgb(77, 181, 250);
-    margin-bottom: -18px;
-        
+.head{
+    margin-top: 50px;
+
 }
 
-.buttom-trybe{
-    background-color: rgb(90, 182, 128);
-    color: white;
-    text-decoration: none;
-    padding: 3px;
-    border-radius: 10%;
-    box-shadow: 1px 2px black;
-}
-
-.audiobook{
-    background-color: rgb(91, 107, 255);
-    color: white;
-    text-decoration: none;
-    padding: 5px;
-    line-height: 28px;
-    box-shadow: 5px 5px 5px black;
-}
-
-.space-contat{
-    margin: 2px;
+.bernardo-photo{
+    box-shadow: 5px 3px 10px rgb(84, 80, 80);
+    margin-bottom: 5px;
 }
 
 #more-about{
-    color: black;
     text-decoration: none;
-    background-color: blueviolet;
-    width: 90px;
-    margin-left: 55px;
-    padding: 8px;
-    border-radius: 45%;
-    box-shadow: 5px 5px 5px black;
+    color: black;
+    background-color: slategrey;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 10px;
 }
 
-.textos{
-    width: 400px;
-    margin-left: 20%;
-    overflow-y: auto;
-    overflow-x: hidden;
-
+.apresentacao{
+    width: 15em;
 }
