@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    margin-left: 12px;
     padding: 0;
     line-height: 1.5;
     word-spacing: 15px;
@@ -14,9 +15,11 @@
 body{
     font-family: 'Minecraftia', serif;
     background-image: url("./imagens/dark_grunge_texture_background_1004.png");
+    /* background-image: url("./imagens/blackwpp.jpeg"); */
     background-size: cover;
     font-size: 17px;
     color: rgb(17, 212, 17);
+    
 }
 
 .header{
@@ -31,9 +34,9 @@ body{
 
 .about-more{
     background-color: rgba(66, 66, 68, 0.767);
-    max-width: 200px;
+    max-width: 245px;
     border-radius: 25px;
-    margin-top: 8px;
+    margin-top: 15px;
     color: rgb(252, 53, 53);
     text-decoration: none;
     text-shadow: 0px 0px 10px rgb(10, 9, 1);
