@@ -1,3 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+@font-face{
+    font-family: Minecraftia;
+    src: url(./font/Minecraftia-Regular.ttf);
+}
+
 body{
-    font-family: 'Noto Serif', serif;
+    font-family: 'Minecraftia', serif;
+    background-image: url("./imagens/dark_grunge_texture_background_1004.png");
+    background-size: cover;
+    font-size: 17px;
+    color: rgb(17, 212, 17);
+}
+
+.header{
+    text-align: center;
+    line-height: 3;
+}
+
+.bernardo-photo{
+    border-radius: 50%;
+    box-shadow: 0px 0px 25px rgb(17, 212, 17);
+}
+
+.about-more{
+    background-color: rgba(66, 66, 68, 0.767);
+    max-width: 200px;
+    border-radius: 25px;
+    margin-top: 8px;
+    color: rgb(252, 53, 53);
+    text-decoration: none;
+    text-shadow: 0px 0px 10px rgb(10, 9, 1);
+}
+
+.git-icon{
+    
 }
