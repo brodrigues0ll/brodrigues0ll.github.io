@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    margin-left: 12px;
+    margin-left: 0px;
     padding: 0;
     line-height: 1.5;
     letter-spacing: 2.5px;
@@ -15,11 +15,14 @@
 body{
     font-family: 'Minecraftia', serif;
     background-image: url("./imagens/dark_grunge_texture_background_1004.png");
-    /* background-image: url("./imagens/blackwpp.jpeg"); */
+    background-repeat: no-repeat;
+    background-size: auto;
     background-size: cover;
+    background-attachment: fixed;
     font-size: 17px;
     color: rgb(17, 212, 17);
-    
+    margin-left: 25px;
+        
 }
 
 .header{
@@ -43,14 +46,20 @@ body{
 
 .about-more{
     background-color: rgba(66, 66, 68, 0.767);
-    max-width: 245px;
+    max-width: 315px;
     border-radius: 25px;
     margin-top: 15px;
+    margin-bottom: 20px;
     color: rgb(252, 53, 53);
+    text-align: center;
     text-decoration: none;
     text-shadow: 0px 0px 10px rgb(10, 9, 1);
 }
 
 .present{
-    width: 90%;
+    max-width: 650px;
+}
+
+.contacts{
+    margin-bottom: 15px;
 }
