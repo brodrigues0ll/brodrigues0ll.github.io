@@ -9,12 +9,12 @@
 
 @font-face{
     font-family: Minecraftia;
-    src: url(./font/Minecraftia-Regular.ttf);
+    src: url(../font/Minecraftia-Regular.ttf);
 }
 
 body{
     font-family: 'Minecraftia', serif;
-    background-image: url("./imagens/dark_grunge_texture_background_1004.png");
+    background-image: url("../imagens/dark_grunge_texture_background_1004.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -75,6 +75,7 @@ body{
     /* background-color: rgba(165, 42, 42, 0.529); */
     max-width: 500px;
     text-align: left;
+    margin-right: 5%;
 }
 
 
@@ -82,13 +83,20 @@ body{
     /* background-color: rgba(165, 42, 42, 0.473); */
     max-width: 500px;
     width: 300px;
+    text-align: left;
 }
 
 
-.lado-a-lado{
+.lado-hability{
     display: inline-block;
     vertical-align: top;
 }
+
+.lado-top3{
+    display: inline-block;
+    vertical-align: top;
+}
+
 
 .contacts{
     margin-bottom: 15px;
@@ -98,8 +106,11 @@ body{
 
 .list{
     margin-top: 15px;
+    text-decoration: none;
+    color: rgb(17, 212, 17);    
 }
 
 
 
 /* Chamando id */
+
